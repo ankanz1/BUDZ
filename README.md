@@ -1,2 +1,4 @@
 # BUDZ
 Budz : Elevate Your Freelance Career – Showcase, connect, succeed!!!”
+
+Smart contract address: 0x0b8fcefacdd3e2f319755eeb7af22ac80615c685

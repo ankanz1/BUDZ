@@ -34,25 +34,6 @@
 - **State Management:** React Hooks
 - **Deployment:** Vercel (recommended)
 
-## 🚀 Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ankanz1/BUDZ.git
-   cd BUDZ
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open [http://localhost:3000](http://localhost:3000) in your browser**
 
 ## 🌟 Key Components
 
@@ -102,9 +83,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📄 SC
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+0x0b8fcefacdd3e2f319755eeb7af22ac80615c685
 
 ## 🙏 Acknowledgments
 

@@ -1,4 +1,4 @@
-# 🚀 BUDZ - Freelancer Portfolio Platform
+# 🚀 BUDZ - Freelancer Portfolio Platfor
 
 <div align="center">
 

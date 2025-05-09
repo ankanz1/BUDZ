@@ -25,13 +25,13 @@ export default function Home() {
                 </p>
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                <Button size="lg" className="bg-primary hover:bg-primary/90">
+                <Button size="lg" className="bg-black hover:bg-black/90">
                   Create Your Portfolio
                 </Button>
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-zinc-700 bg-black text-black hover:bg-black hover:text-white transition-colors"
+                  className="border-zinc-700 bg-black text-white hover:bg-black/90 hover:text-white transition-colors"
                 >
                   Explore Projects
                 </Button>
@@ -140,7 +140,7 @@ export default function Home() {
               asChild
               size="lg"
               variant="outline"
-              className="border-zinc-700 bg-black text-black hover:bg-black hover:text-white transition-colors"
+              className="border-zinc-700 bg-black text-white hover:bg-white/90 hover:text-black transition-colors"
             >
               <Link href="/projects">View All Projects</Link>
             </Button>
